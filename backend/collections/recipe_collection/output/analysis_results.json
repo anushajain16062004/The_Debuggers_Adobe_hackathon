@@ -1,0 +1,4086 @@
+{
+  "metadata": {
+    "challenge_id": "round_1b_001",
+    "test_case": "Recipe Collection",
+    "persona": "Food Contractor",
+    "task": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
+    "documents": [
+      {
+        "filename": "Dinner Ideas - Mains_2.pdf",
+        "title": "\u2022",
+        "page_count": 15
+      },
+      {
+        "filename": "Dinner Ideas - Sides_2.pdf",
+        "title": "Churros",
+        "page_count": 15
+      },
+      {
+        "filename": "Dinner Ideas - Sides_3.pdf",
+        "title": "o 2 cloves garlic",
+        "page_count": 15
+      },
+      {
+        "filename": "Lunch Ideas.pdf",
+        "title": "Lunch Ideas",
+        "page_count": 15
+      }
+    ]
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Ingredients",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Roast Chicken",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Shrimp and Grits",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Spaghetti Carbonara",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Stuffed Bell Peppers",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Sweet and Sour Pork",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Tandoori Chicken",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Thai Green Curry",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Turkey Meatballs",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Vegetable Stir-Fry",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Vietnamese Pho",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Yakitori",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Zucchini Noodles with Pesto",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Beef and Broccoli",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Fajitas",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Piccata",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Pot Pie",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Stir-Fry",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Coq au Vin",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Crab Cakes",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Enchiladas",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fettuccine Alfredo",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fish and Chips",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Grilled Cheese Sandwich",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Grilled Salmon",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Grilled Shrimp Skewers",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Lamb Chops with Mint Sauce",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Lobster Tail",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Osso Buco",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Pad See Ew",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Churros",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Coconut Rice",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Coleslaw",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Cornbread",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Coxinha",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Croque Monsieur",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Croquetas",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Dal Tadka",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Deviled Eggs",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Dolmas",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Dumplings",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Edamame",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Egusi Soup",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Egg Rolls",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Elote",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Empanadas",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Escalivada",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Falafel",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Farofa",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Fattoush",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Fava",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Feij\u00e3o Tropeiro",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Festival",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Focaccia",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Freekeh Salad",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Fried Plantains",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Fried Rice",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Fufu",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gamja Jorim",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Garlic Bread",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gazpacho",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gigantes Plaki",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Goi Cuon (Spring Rolls)",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gomae (Spinach with Sesame Dressing)",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gratin Dauphinois",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Greek Salad",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Green Bean Casserole",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Guacamole",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gurkensalat (Cucumber Salad)",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gyeran Jjim",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Harira",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Horta",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Hot and Sour Soup",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Hummus",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Japchae",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Jerk Vegetables",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Johnny Cakes",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Jollof Rice",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Kachumbari",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "K\u00e4sesp\u00e4tzle (Cheese Noodles)",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Kartoffelsalat (Potato Salad)",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Keftedes",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Kibbeh",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Kimchi",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Kongnamul Muchim",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Labneh",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Larb",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Lo Mein",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Loubia",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Macaroni and Cheese",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Manakish",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mandazi",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mandu",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mango Sticky Rice",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mapo Tofu",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mashed Potatoes",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Minestrone",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Miso Soup",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Moqueca de Banana",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Msemen",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Muhammara",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mutabal",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Naan",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Nom Du Du (Green Papaya Salad)",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Nuoc Cham",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Oi Muchim",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Onigiri (Rice Balls)",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "P\u00e3o de Queijo",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Pad See Ew",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Pad Thai",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Caesar Wrap",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Quinoa Salad",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Avocado Sandwich",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Greek Yogurt Parfait",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Hummus and Veggie Pita",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Tuna Salad",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Caprese Sandwich",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Salad Lettuce Wraps",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie and Hummus Wrap",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Egg Salad Sandwich",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Pasta Salad",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Avocado Salad",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Cheese Roll-Ups",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Mediterranean Chickpea Salad",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Veggie Stir-Fry",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Shrimp and Avocado Salad",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Black Bean and Corn Salad",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Pesto Sandwich",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lentil Salad",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chickpea and Avocado Sandwich",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Greek Salad",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Cranberry Wrap",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Caprese Salad",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Veggie Skewers",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Tuna and Avocado Salad",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie Sushi Rolls",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Spinach and Feta Stu\ufb00ed Pita",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "BBQ Chicken Wrap",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Couscous Salad",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Eggplant and Hummus Sandwich",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Mango Salad",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie and Cheese Quesadilla",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chickpea and Spinach Wrap",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Apple Sandwich",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Mediterranean Tuna Salad",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Avocado Wrap",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lentil and Veggie Wrap",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Hummus Wrap",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Pour the mixture over the vegetables and toss to coat.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Bake for 45 minutes until vegetables are tender.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Roast Chicken Ingredients:",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Shrimp and Grits Ingredients:",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Spaghetti Carbonara Ingredients:",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Stuffed Bell Peppers Ingredients:",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Sweet and Sour Pork Ingredients:",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 2 tablespoons vegetable oil",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Heat vegetable oil in a skillet over medium heat.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Tandoori Chicken Ingredients:",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Thai Green Curry Ingredients:",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 2 tablespoons vegetable oil",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 In a large skillet, heat vegetable oil over medium heat.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Turkey Meatballs Ingredients:",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Vegetable Stir-Fry Ingredients:",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Pour sauce over the vegetables and cook until thickened.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Vietnamese Pho Ingredients:",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Yakitori Ingredients:",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Zucchini Noodles with Pesto Ingredients:",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Beef and Broccoli Ingredients:",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 2 tablespoons vegetable oil",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 In a large skillet, heat vegetable oil over medium heat.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Chicken Fajitas Ingredients:",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 2 tablespoons vegetable oil",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 In a large skillet, heat vegetable oil over medium heat.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Cook sliced chicken, bell pepper, and onion until chicken is cooked through and vegetables are tender.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Serve chicken and vegetables in tortillas with desired toppings.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Chicken Piccata Ingredients:",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Chicken Pot Pie Ingredients:",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Chicken Stir-Fry Ingredients:",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients:",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Crab Cakes Ingredients:",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 2 tablespoons vegetable oil",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 In a skillet, heat vegetable oil over medium heat.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Enchiladas Ingredients:",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 2 tablespoons vegetable oil",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 In a skillet, heat vegetable oil over medium heat.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Fettuccine Alfredo Ingredients:",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Fish and Chips Ingredients:",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Vegetable oil for frying",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Heat vegetable oil in a deep fryer or large pot to 350\u00b0F (175\u00b0C).",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Grilled Cheese Sandwich Ingredients:",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Grilled Salmon Ingredients:",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Grilled Shrimp Skewers Ingredients:",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Lamb Chops with Mint Sauce Ingredients:",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Lobster Tail Ingredients:",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Osso Buco Ingredients:",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Pad See Ew Ingredients:",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 1 tablespoon vegetable oil",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 In a large skillet, heat vegetable oil over medium heat.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 cup cornmeal o 1 cup flour o 1/4 cup sugar o 1 tablespoon baking powder o 1/2 teaspoon salt o 1 cup milk o 1/4 cup vegetable oil o 1 egg",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Preheat oven to 400\u00b0F (200\u00b0C). o Roast eggplants, bell peppers, tomatoes, and onion until tender. o Peel and slice vegetables. o Arrange on a plate and drizzle with olive oil. o Sprinkle with salt and serve warm or at room temperature.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Toast pita breads until crispy, then break into pieces. o Dice tomatoes and cucumber, slice red onion. o Mix vegetables with chopped parsley and mint. o Whisk lemon juice, olive oil, sumac, and salt, then pour over salad. o Toss well and serve.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Freekeh Salad",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Rinse freekeh and cook in water until tender, then drain. o Saut\u00e9 diced onion in olive oil until softened. o Mix freekeh with saut\u00e9ed onion, chopped parsley, and mint. o Whisk lemon juice, olive oil, and salt, then pour over salad. o Toss well and serve.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 2 ripe plantains o 1 cup vegetable oil o 1 teaspoon salt",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Saut\u00e9 diced onion, peas, and carrots in sesame oil until softened. o Push vegetables to the side and scramble eggs in the same pan. o Add cooked rice and soy sauce, stir to combine. o Cook until heated through. o Garnish with chopped green onions and serve.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Dice tomatoes, cucumber, onion, and bell pepper. o Blend vegetables with minced garlic, olive oil, vinegar, salt, and pepper until",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Greek Salad",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Dice tomatoes and cucumber, slice red onion. o Mix vegetables with olives and crumbled feta cheese. o Whisk olive oil, vinegar, oregano, and salt, then pour over salad. o Toss well and serve.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Gurkensalat (Cucumber Salad)",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 2 cloves garlic o 4 tomatoes o 4 cups vegetable broth o 1 teaspoon cumin o 1 teaspoon coriander o 1 teaspoon turmeric o 1 teaspoon salt o 1/4 cup cilantro",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Saut\u00e9 diced onion and minced garlic until softened. o Add diced tomatoes, lentils, chickpeas, vegetable broth, cumin, coriander,",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Add spinach and cook until wilted. o Mix noodles with soy sauce, sugar, and sesame seeds. o Combine with cooked beef and vegetables. o Serve warm.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Jerk Vegetables",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Toss vegetables with minced garlic, jerk seasoning, and olive oil. o Roast at 400\u00b0F (200\u00b0C) until tender. o Serve warm.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 2 cups rice o 1 small onion o 2 cloves garlic o 4 tomatoes o 1/4 cup tomato paste o 1/4 cup vegetable oil o 1 teaspoon thyme o 1 teaspoon curry powder o 1 teaspoon salt o 1/2 teaspoon pepper o 4 cups chicken broth",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Saut\u00e9 diced onion and minced garlic in vegetable oil until softened. o Add diced tomatoes, tomato paste, thyme, curry powder, salt, and pepper, cook",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Dice tomatoes, onion, and cucumber. o Mix vegetables with chopped cilantro, lemon juice, and salt. o Serve chilled.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Kartoffelsalat (Potato Salad)",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 1 can diced tomatoes o 4 cups vegetable broth o 1 can cannellini beans o 1 cup pasta o 1/4 cup basil o 1/4 cup Parmesan cheese",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Nom Du Du (Green Papaya Salad)",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 8 ounces wide rice noodles o 1/2 pound chicken breast o 1 cup broccoli o 2 eggs o 2 tablespoons soy sauce o 2 tablespoons oyster sauce o 1 tablespoon sugar o 1 tablespoon vegetable oil",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Soak rice noodles in warm water until softened, then drain. o Saut\u00e9 sliced chicken in vegetable oil until cooked, then set aside. o Scramble eggs in the same pan. o Add noodles, soy sauce, oyster sauce, and sugar, stir to combine. o Add broccoli and cooked chicken, stir-fry until heated through. o Serve warm.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients :",
+      "page_number": 15
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap Ingredients:",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Quinoa Salad Ingredients:",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Turkey and Avocado Sandwich Ingredients:",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Greek Yogurt Parfait Ingredients:",
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Hummus and Veggie Pita Ingredients:",
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Tuna Salad Ingredients:",
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Caprese Sandwich Ingredients:",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Salad Lettuce Wraps Ingredients:",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Veggie and Hummus Wrap Ingredients:",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Egg Salad Sandwich Ingredients:",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Pasta Salad Ingredients:",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Avocado Salad Ingredients:",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Turkey and Cheese Roll-Ups Ingredients:",
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Roll up tightly and repeat with remaining ingredients.",
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Mediterranean Chickpea Salad Ingredients:",
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Veggie Stir-Fry Ingredients:",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Shrimp and Avocado Salad Ingredients:",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Black Bean and Corn Salad Ingredients:",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Pesto Sandwich Ingredients:",
+      "page_number": 8
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Lentil Salad Ingredients:",
+      "page_number": 8
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chickpea and Avocado Sandwich Ingredients:",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Greek Salad Ingredients:",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Turkey and Cranberry Wrap Ingredients:",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Caprese Salad Ingredients:",
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Veggie Skewers Ingredients:",
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Tuna and Avocado Salad Ingredients:",
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Veggie Sushi Rolls Ingredients:",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Spinach and Feta Stu\ufb00ed Pita Ingredients:",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "BBQ Chicken Wrap Ingredients:",
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Couscous Salad Ingredients:",
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Eggplant and Hummus Sandwich Ingredients:",
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Mango Salad Ingredients:",
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Veggie and Cheese Quesadilla Ingredients:",
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chickpea and Spinach Wrap Ingredients:",
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Turkey and Apple Sandwich Ingredients:",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Mediterranean Tuna Salad Ingredients:",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Avocado Wrap Ingredients:",
+      "page_number": 15
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Lentil and Veggie Wrap Ingredients:",
+      "page_number": 15
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Turkey and Hummus Wrap Ingredients:",
+      "page_number": 15
+    }
+  ]
+}

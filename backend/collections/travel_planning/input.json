@@ -1,0 +1,12 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "Travel Planning"
+  },
+  "persona": {
+    "role": "Travel Planner"
+  },
+  "job_to_be_done": {
+    "task": "Plan a 4-day trip for 10 college friends to South of France"
+  }
+}

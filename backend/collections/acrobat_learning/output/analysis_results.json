@@ -1,0 +1,4112 @@
+{
+  "metadata": {
+    "challenge_id": "round_1b_003",
+    "test_case": "Adobe Acrobat Learning",
+    "persona": "HR Professional",
+    "task": "Create and manage fillable forms for onboarding and compliance",
+    "documents": [
+      {
+        "filename": "Learn Acrobat - Edit_1.pdf",
+        "title": "Learn Acrobat - Edit_1",
+        "page_count": 16
+      },
+      {
+        "filename": "Learn Acrobat - Edit_2.pdf",
+        "title": "1. Make the desired changes in the app. Bear in mind the following:",
+        "page_count": 16
+      },
+      {
+        "filename": "Learn Acrobat - Share_2.pdf",
+        "title": "Add comments while viewing a PDF",
+        "page_count": 16
+      },
+      {
+        "filename": "Test Your Acrobat Exporting Skills.pdf",
+        "title": "Export Expert: Test Your Acrobat Exporting Skills",
+        "page_count": 2
+      },
+      {
+        "filename": "The Ultimate PDF Sharing Checklist.pdf",
+        "title": "The Ultimate PDF Sharing Checklist",
+        "page_count": 3
+      }
+    ]
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format text",
+      "importance_rank": 3,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format",
+      "importance_rank": 3,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format",
+      "importance_rank": 3,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format Text",
+      "importance_rank": 3,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format Text",
+      "importance_rank": 3,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format Text",
+      "importance_rank": 3,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format Text",
+      "importance_rank": 3,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format",
+      "importance_rank": 3,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format",
+      "importance_rank": 3,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Format",
+      "importance_rank": 3,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Export PDF images to another format",
+      "importance_rank": 3,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Image format",
+      "importance_rank": 3,
+      "page_number": 1,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Use the correct font and formatting",
+      "importance_rank": 3,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "information, this checklist will ensure you cover all the bases. Let's dive",
+      "importance_rank": 3,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "chosen platform?",
+      "importance_rank": 3,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "closing deals and keeping clients informed. Here's a tailored checklist to",
+      "importance_rank": 3,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "chosen platform?",
+      "importance_rank": 3,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Document properties",
+      "importance_rank": 2,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split PDFs into multiple documents",
+      "importance_rank": 2,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Edit a scanned document",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "document",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Ensure That Pop-ups Are Visible As The Document Is Scrolled",
+      "importance_rank": 2,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "document?",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "fields?",
+      "importance_rank": 2,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Are you tracking who has accessed the document and",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "In the real estate industry, sharing documents efficiently is crucial for",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Open Your Property Document",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you decided if clients can comment on the document or",
+      "importance_rank": 2,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "fields, highlighting key property details?",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Are you tracking who has accessed the document and",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "documents. By following these checklists, you can ensure that your",
+      "importance_rank": 2,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit text in a PDF",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Set the default font for adding and editing text",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Preferences",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Ctrl+K",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Command+K",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content Editing",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Change, replace, or delete text",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Bold",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Italic",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Underline",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Superscript",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Subscript",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add new text",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Move",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Move, rotate, or resize a text box",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Move",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Move",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Rotate",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Rotation",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Resize",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add or edit lists",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Enter",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Backspace",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Change font color",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "For Windows",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "For macOS:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Change font",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Change font size",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Redo text in Acrobat",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Undo, Redo &",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "more",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Redo",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Undo, Redo and More > Redo",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Undo text in Acrobat",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Undo, Redo &",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "more",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Undo",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Undo, Redo and More > Undo",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Change paragraph spacing",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Paragraph spacing after",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit images or objects in a PDF",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "About editing text and images",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add images in a PDF",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit a PDF",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Image",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Choose image",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Generate image",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Modify images in a PDF",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Adjust Objects",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Choose image",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Generate image",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Delete images from a PDF",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Delete",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add Objects to PDF",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit a PDF",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "More",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Button",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Video",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Sound",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "D Media",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit an image outside Acrobat",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit using",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Select All",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Adjust Objects",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit using",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Open with",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Open",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Don\u2019t Convert",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "File",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Save",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Convert",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Export PDF To",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Rotate, move, delete, extract, or renumber",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Rotate pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page Thumbnails",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Rotate",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages.",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGES SELECTED",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "View",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "View",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Rotate view",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Rotate view right",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Rotate view",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "left",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages from a PDF",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All Tools",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages.",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGES SELECTED",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGE OPTIONS",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "pages after extracting",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages as",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "separate files",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "File",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Security",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract random pages from a PDF",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All Tools",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages.",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGE OPTIONS",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "pages after extracting",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages as",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "separate files",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All Tools",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages.",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGE OPTIONS",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split.",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split By",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Number of pages",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "File Size",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Top-level Bookmarks",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Output",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Options",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split multiple PDFs",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All Tools",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages.",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGE OPTIONS",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split.",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split by",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Number of pages",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "File Size",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Top-level Bookmarks",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Output",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Options",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split multiple files",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Add Files",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Add Files, Add Folders",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Add Open Files",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Split",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Move or copy pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Move or copy a page",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Cut",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Copy",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Paste",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Copy a page between two PDFs",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Window",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Window",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Tile",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Vertically",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Copy",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Paste",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page Thumbnails",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete or replace pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Reduce File Size",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete multiple pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGES SELECTED",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete pages",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Use Logical Page Numbers",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page Display",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Preferences",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Delete a page in a PDF",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Replace pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Replace",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Replace Pages",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Original",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Replace Pages",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Replacement",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Replace pages between multiple PDFs",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Ctrl",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Command",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Ctrl",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "command",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Renumber pages in a PDF",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page Navigation",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page Navigation",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Number Pages",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Pages",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Organize pages > Page labels.",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Selected",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Page Thumbnails",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Begin New Section",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Prefix",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extend Numbering Used In Preceding Section To Selected Pages",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Edit Scanned PDFs",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Check the accuracy of optical character recognition (OCR) output",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Scan & OCR",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Recognize",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance image quality",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "scanned file",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance camera image",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Remove security restrictions",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Avoid editing complex elements",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Check for compatibility issues",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Save a backup copy",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Recognize text on scanned PDF",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Get",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "started",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "In this file",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Recognize text",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Save as",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance scanned file or camera images for",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "clear PDFs",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance camera",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "image",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance camera image",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H3"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "All tools",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Scan & OCR",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance camera image",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance",
+      "importance_rank": 1,
+      "page_number": 16,
+      "heading_level": "H4"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments while viewing a PDF",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Actions on text selection",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Actions on image selection:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Actions on highlighted selection:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Annotations and drawing markup tools",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "overview",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Show annotations and drawing markup tools",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Comments",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Draw freehand",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Select an annotation or drawing markup tool",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Pencil",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Highlight",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Text",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Keep an annotation tool selected",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Use the same tool until it's unselected",
+      "importance_rank": 1,
+      "page_number": 4,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "In Acrobat Reader",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Steps to add a comment",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Edit a comment",
+      "importance_rank": 1,
+      "page_number": 5,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Change font size of annotation comments",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Ctrl + K",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "command +",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Categories",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Commenting",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Font Size",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Copy partial text in a comment",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Delete a comment",
+      "importance_rank": 1,
+      "page_number": 6,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a text comment",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add text comment",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add text Comment",
+      "importance_rank": 1,
+      "page_number": 7,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add reactions to comments on shared files",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Comments",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add an arrow, or shape",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "In Acrobat Reader",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Draw freehand",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Line",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Arrow",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Rectangle",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Circle",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Cloud",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Polygon",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Connected lines",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Draw",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Erase a",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "drawing",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Draw",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Erase",
+      "importance_rank": 1,
+      "page_number": 9,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "a drawing",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add note",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a line",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Draw freehand",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Line",
+      "importance_rank": 1,
+      "page_number": 10,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Group and ungroup markups",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Group markups",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Group",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Ungroup markups",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Ungroup",
+      "importance_rank": 1,
+      "page_number": 11,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments in a text box or callout",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add text comment",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Text Box",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Text callout",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment in text box",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Quick action toolbar",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add text comment",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Set or change properties for the text box",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Set or change properties for the selected text",
+      "importance_rank": 1,
+      "page_number": 12,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Select",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Delete",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment in callout",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Draw freehand",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Text callout",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Set or change properties",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "for the selected text",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Properties",
+      "importance_rank": 1,
+      "page_number": 13,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments in a file attachment",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "In Acrobat Reader",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Attach file",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Attach file",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Attach file",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Edit",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "More",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add a comment",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Attach file",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Open",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "File Attachment Properties",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 14,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Commenting preferences",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Viewing comments",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Font, Font Size",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "In Windows",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Mac OS",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Pop-up Opacity",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Enable Text Indicators And Tooltips",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Print Notes And Pop-ups",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Summarize Comments",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
+      "importance_rank": 1,
+      "page_number": 15,
+      "heading_level": "H2"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Export Expert: Test Your Acrobat Exporting Skills",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "to be a true PDF exporting pro",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Scenario:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Scenario:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Scenario:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Scenario:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Scenario:",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Scenario:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Yes or No:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "True or False:",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate PDF Sharing Checklist",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "collaborating on a project, seeking feedback, or simply distributing",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "into the essentials of sharing PDFs effectively.",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "General Sharing Checklist",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Open Your PDF",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you launched Acrobat or Acrobat Reader and opened",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "the PDF you want to share?",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Choose Your Sharing Method",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Are you sharing via email, link, or a third-party app like",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Microsoft Teams or WhatsApp?",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Set Permissions",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you decided if recipients can comment or just view the",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Add Recipients",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Did you enter the email addresses of everyone who needs",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "access?",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Customize Your Message",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you added a personal touch to the subject and message",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Create and Share the Link",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Did you generate a shareable link and copy it for distribution?",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Send the Invitation",
+      "importance_rank": 1,
+      "page_number": 1,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you sent the email or shared the link through your",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Follow Up",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "following up as needed?",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Professional Tip: Clear Instructions",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Ensure your email instructions are clear and concise to avoid any",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "confusion for your recipients.",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Sharing Checklist for Real Estate Professionals",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "help you manage your PDF sharing needs.",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Real Estate Sharing Checklist",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you launched Acrobat or Acrobat Reader and opened",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "the property listing or contract you need to share?",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Choose Your Sharing Method",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Are you sharing via email, link, or a third-party app like",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Microsoft Teams or WhatsApp?",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Set Permissions",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "just view it?",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Add Clients and Stakeholders",
+      "importance_rank": 1,
+      "page_number": 2,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Did you enter the email addresses of clients, agents, and other",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "stakeholders?",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Customize Your Message",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you added a personal touch to the subject and message",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Create and Share the Link",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Did you generate a shareable link and copy it for distribution?",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Send the Invitation",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Have you sent the email or shared the link through your",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Follow Up",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "following up with clients for feedback or next steps?",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Professional Tip: Highlight Key Details",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Make sure to emphasize important property details in your message to",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "capture your clients' attention.",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Sharing PDFs with Adobe Acrobat is straightforward and efficient,",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "whether you're working on a general project or managing real estate",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "sharing process is smooth and professional. Start sharing smarter today.",
+      "importance_rank": 1,
+      "page_number": 3,
+      "heading_level": "H1"
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "scanned document, Acrobat automatically runs OCR to make the text and images editable.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "inconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "specific font for any text that is added or modified in the PDF document from Font",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Format panel. You can create lists and, conversely, convert a list item to a",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "4. Select a font, font size, or other formatting options in the left Format panel. You",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "can also try the advanced format options, such as line spacing, character",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Format text",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "3. In the Format Text section on the left panel, select a font, font size, bold, or other",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "formatting options. You can also try the advanced format options, such as line spacing,",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Formatting options on the left pane",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can change the text properties using the options under Format in the left pane.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "1. Place the cursor in the document at the location where you want to add a list.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "2. Choose the appropriate list type under Format Text .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "under Format Text .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "1. Select all items in the list. The appropriate list type is highlighted under Format Text .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "2. Choose the appropriate list type under Format Text .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "3. In the Format Text section on the Edit panel, select Font color next to Font size.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "3. In the Format Text section on the Edit panel, from the Font drop-down menu, select",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "3. In the Format Text section on the Edit panel, from the Font size menu, select the font",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can change paragraph spacing in Acrobat using format text options:",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "3. From the FORMAT TEXT panel, select Paragraph spacing after drop-down menu and",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You might encounter formatting challenges that require manual adjustments. Acrobat's image-editing capabilities are limited, and using high-resolution images can lead to performance issues due to larger file sizes. To address this, improve images using other tools before adding them to PDF documents.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can also enhance document accessibility using Acrobat's features, such as adding alternative text for images and proper content tagging.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "1. Open the PDF document in Adobe Acrobat. Select Edit from the global bar.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "2. Drag your cursor on the document where you want to add the video.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "\u2022 Transparency information is preserved only for masks that are specified as index values in an indexed color space.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "\u2022 If you change image modes while editing the image, you may lose valuable information that can be applied only in the original mode.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Note: For Photoshop, if the image is in a format supported by Photoshop 6.0 or later, your edited image is saved back into the PDF. However, if the image is in an unsupported format, Photoshop handles the image as a generic PDF image. The edited image is saved to disk instead of the PDF. Export PDF images to another format",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can save every page (all text, images, and vector objects on a page) to an image format. Choose Convert > Export PDF To > Image format > [Image Type]. You can also export each image in a PDF to a separate image file.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can rotate all or select pages in a document. Rotation is based on 90-degree increments. You can rotate pages using the rotate tools in the Page Thumbnails pane or the Rotate option.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Extraction is reusing selected pages of one PDF in a different PDF. Extracted pages include the content and the form fields, comments, and links of the original document.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can leave the extracted pages in the original document or remove them during extraction.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "\u2022 To remove the extracted pages from the original document, select Delete pages after extracting .",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "The extracted pages are placed in a new document.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Note: The creator of a PDF document can set the security to prevent the extraction of pages. To view the security settings for a document, choose Document properties from the hamburger menu (Windows) or File menu in macOS and then select the Security tab in",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "you want to extract pages 3 and 5, enter 3, 5 in the pages field under PAGES SELECTED.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "\u2022 To remove the extracted pages from the original document, select Delete pages after extracting .",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "The extracted pages are placed in a new document.",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Split PDFs into multiple documents",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "3. In the Split By list, select the criteria for dividing the document:",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Number of pages Specify the maximum number of pages for each document in the split.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "File Size Specify the maximum file size for each document in the split.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Top-level Bookmarks If the document includes bookmarks, it creates one document for every top-level bookmark.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "3. In the Split by list, select the criteria for dividing the document:",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Number of pages Specify the maximum number of pages for each document in the split.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "File Size Specify the maximum file size for each document in the split.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Top-level Bookmarks If the document includes bookmarks, it creates one document for every top-level bookmark.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "To copy or move pages within a document, use the page thumbnails in the right navigation pane or the document area. You can also transfer pages between documents using these thumbnails. In the Organize Pages view, drag and drop thumbnails to rearrange pages, or select a thumbnail and copy it as needed.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "are displayed in the Document area.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Document area.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "The page is copied into the document, and the pages are renumbered. You can paste the pages in another PDF as well. Alternatively, you can also drag the page thumbnail into the Page Thumbnails panel of the target PDF.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can replace an entire PDF page with another PDF page. Only the text and images on the original page are replaced. Any interactive elements associated with the original page, such as links and bookmarks, aren't affected. Likewise, bookmarks and links that may have been previously associated with the replacement page don't carry over. Comments, however, are carried over and are combined with any existing comments in the document.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "After you delete or replace pages, it\u2019s a good idea to use the Reduce File Size command to rename and save the restructured document to the smallest possible file size.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "1. Select All tools > Organize pages . The page thumbnails are displayed in the Document area.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "2. Specify the page thumbnail of the pages you want to delete and separate them with a comma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field under PAGES SELECTED . You can also choose from the options given in the drop- down menu.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can't delete all pages; at least one page must remain in the document.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Note: If you select Use Logical Page Numbers in the Page Display panel of the Preferences dialog box, you can enter a page number in parentheses to delete the corresponding page. For example, if the first page in the document is numbered i, you can enter (1) in the Enter Page Range list, and the page is deleted.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Document area.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Document area.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "4. Select the document containing the replacement pages.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "original document.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "replacement page range. The last page is calculated based on the number of pages to be replaced in the original document.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "the Document area.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "thumbnails in the document area of the target document where thumbnails are displayed. Release the mouse button when the pointer is directly over the page number box of the page thumbnail you want to replace. The corresponding pages are highlighted.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "The pages you selected in the first document replace an equal number of pages in the second document. It starts at the page number that you selected to drop the new pages.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "The page numbers on the document pages don't always match the page numbers that appear below the page thumbnails and in the right Page Navigation toolbar. Pages are numbered with integers, starting with page 1 for the first page of the document. Because some PDFs may contain front matter, such as a copyright page and table of contents, their body pages may not follow the numbering shown in the right Page Navigation toolbar.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Editing a scanned PDF can be complicated if it includes low-quality text or images, non- editable text, line breaks, or complex formatting. Other inhibiting factors include compatibility issues, security restrictions, and large file sizes, which are more prevalent in PDFs created from scanned images.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "To streamline the process, consider the following best practices and guidelines before editing a scanned document:",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Check the accuracy of optical character recognition (OCR) output . When you open a scanned document, Acrobat automatically runs OCR in the background to make the document editable. Before editing, review the document to ensure that the content is accurate and complete. If necessary, rescan the document using the Scan & OCR > Recognize Text tool to improve the output.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Enhance image quality . If the scanned PDF contains low-quality images, use the Enhance scanned file or Enhance camera image feature to improve the quality of images before attempting to edit the document. For more information, see Scan documents to PDF .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Use the correct font and formatting . When editing the document, ensure that the font and formatting of the edited text match the original document as closely as possible. If you don't have the desired fonts on your computer, see Add fonts to your computer .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Remove security restrictions . If the scanned PDF has security restrictions that prevent editing, remove these restrictions before attempting to edit the document. To know how to remove security from a PDF, see Unlock a PDF .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Avoid editing complex elements . If the scanned PDF contains tables, graphs, or images, avoid unnecessary edits that could alter the layout or formatting of these elements.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Check for compatibility issues . Ensure that the version of Adobe Acrobat you're using is compatible with the scanned PDF. If you encounter compatibility issues, try updating Adobe Acrobat. For more information, see System requirements .",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Save a backup copy . Always save a backup copy of the original scanned PDF before making any edits. Revert to the original document if any issues arise during the editing process.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Edit a scanned document",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "(macOS)> Save as and enter a new name for your document.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Initially, the language is set to the default locale, and the other options are disabled. Any changes to these settings are persisted and are applied when you edit the document.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can capture document photos with your smartphone and use the Enhance camera image feature to create polished, clear, and compact PDFs without needing a standard scanner. This feature addresses common issues in mobile-captured images, such as incorrect perspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not eliminate all problems, it significantly improves the overall quality of your resulting PDF.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "1. Open the photograph or image of the document in Acrobat.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add comments while viewing a PDF document",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "\u2022 Actions on text selection : When you select text, you can perform actions like Highlight text, Underline text, Strikethrough text, Redact text, Copy text, and Edit a PDF.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "\u2022 Actions on image selection: When you select an image you can perform actions like Add sticky note, Highlight image, Redact image, Copy Image, and Edit a PDF.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "You can use annotation and drawing markup tools to add comments. Comments are notes and drawings that communicate ideas or provide feedback for PDFs. You can type a text message using the Add text comment tool. Alternatively, you can use a drawing tool to add a line, circle, or other shape and then type a message in the associated pop-up note. Text- editing tools let you add editing marks to indicate changes that you want in the source document.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Annotations and markup tools don\u2019t appear by default, except when you open a PDF in a managed review workflow.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note: In Acrobat Reader , complete commenting tools are available only in PDFs that have commenting enabled. PDFs in a review workflow typically include commenting rights.",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "The most common type of comment is the Add a comment that resembles a sticky note. The comment appears as a note icon on the page and a pop-up note for your text message. You can Add a comment anywhere on the page or in the document area.",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "1. Open the PDF document in Adobe Acrobat. Locate and select the comment icon you",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "3. (Optional) To change the text formatting, double-click the added text comment, select",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "the text, and then select the font, text alignment, and other text formatting you want.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note: In Acrobat Reader , drawing tools are available only in PDFs that have commenting enabled. PDFs in a review workflow typically include commenting rights.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "\u2022 The Draw tool creates free-form drawings, and the Erase a",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "\u2022 To draw free-form lines using the Draw tool, drag where you want to begin drawing. You can release the mouse button, move the pointer to a new location, and continue drawing. To erase parts of the drawing, select the Erase",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "You can group two or more markups so that your comments function as a single comment. You might group markups temporarily to move them to a new location or to modify their properties rather than editing each one individually. Grouping also helps to distinguish your markups from other reviewers\u2019 markups in a document review.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "You can use the Add text comment tool to create a box that contains text. You can position it anywhere on the page and adjust it to any size. A text box remains visible on the document page; it doesn\u2019t close like a pop-up note.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "You can use the Text callout tool to create a callout text box. Callout text boxes are handy when you want to single out\u2014but not obscure\u2014a particular area of a document. Callout text boxes have three parts: a text box, a knee line, and an end-point line. You can resize each part by dragging a handle. The knee line can be resized in one direction only; horizontal knee lines can be resized horizontally only; vertical knee lines can be resized vertically only. The text box expands vertically as you type so that all text remains visible.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note: In Acrobat Reader , commenting tools are available only in PDFs that have commenting enabled. PDFs in a review workflow typically include commenting rights.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Use the Attach file tool to embed a file at a selected location in a PDF, so that the reader can open it for viewing. By adding attachments as a comment, you can reference longer documents that can\u2019t easily be pasted into a pop-up note or text box. If you move the PDF to a new location, the embedded file automatically goes with it. To view an attachment, the reader must have an application installed that can open the attachment.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note: Be sure to use the Attach file option from the Add Comments tool when attaching files for a document review. Document-level file attachments that you attach using the Attach file tool from the Edit > More menu aren\u2019t tracked with other comments in a review workflow and may cause your attached comments to be lost.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note: A reviewer can place comments anywhere within the document frame. As a result, sometimes you need to scroll or zoom out to see comments that are located off the page.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Ensure That Pop-ups Are Visible As The Document Is Scrolled",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "As you scroll a PDF, the pop-up notes on a given page shift to stay in view within the document pane. Selected by default.",
+      "page_number": 16
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "1. Yes or No: Can you save a PDF in text format to use with a screen reader?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "2. True or False: Saving a digitally signed PDF invalidates the signature.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "7. Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "10. Yes or No: Does the Autosave feature work if a document's security settings are",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "you use the \"Convert\" button in Acrobat or retype the entire document?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "information, this checklist will ensure you cover all the bases. Let's dive",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "document?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "fields?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "chosen platform?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022 Are you tracking who has accessed the document and",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "In the real estate industry, sharing documents efficiently is crucial for",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "closing deals and keeping clients informed. Here's a tailored checklist to",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022 Open Your Property Document",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022 Have you decided if clients can comment on the document or",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "fields, highlighting key property details?",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "chosen platform?",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022 Are you tracking who has accessed the document and",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "documents. By following these checklists, you can ensure that your",
+      "page_number": 3
+    }
+  ]
+}
