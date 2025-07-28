@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  pdf-extractor:
+    build: .
+    container_name: pdf-parser
+    volumes:
+      - ./files:/app/files         # Mount your local PDF folder
+    working_dir: /app
+    command: python round1a.py
